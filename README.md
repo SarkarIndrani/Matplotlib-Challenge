@@ -12,27 +12,28 @@ The management has requested me to analyze the clinical study data and generate 
 ## Bar Chart 
 A bar plot showing the total number of timepoints for all mice tested for each drug regimen using pyplot
 
-![](images/bar_1.JPG)
+![](images/bar.JPG)
 
 ## Pie Chart
 Pie plot showing the distribution of female versus male mice using Pandas
 
-![](images/pie_1.JPG)
+![](images/pie.JPG)
 
 ## Quartiles, Outliers, and Boxplots
  A box plot showing the distrubution of the tumor volume for each treatment group.
 
- ![](images/boxplot.JPG)
+ ![](images/box.JPG)
 
 ## Lint Plot
 A line plot of tumor volume vs. time point for a mouse treated with Capomulin
 
-![](images/linechart.JPG)
+![](images/lineplot.JPG)
 
 ## Scatter Plot
 A scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
 
-![](images/scatter_plot.JPG)
+![](images/scatterplot.JPG)
+
 
 
 
