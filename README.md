@@ -1,4 +1,4 @@
-# Module5-Challenge
+# Matplotlib-Challenge
 ## Background
 
 I am a senior data analyst in a pharmaceutical company, current working on analyzing the effect of our skin cancer medicine Capomulin on mice. 
